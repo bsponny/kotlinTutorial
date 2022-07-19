@@ -1,0 +1,4 @@
+#Mon Jul 18 14:21:24 MDT 2022
+base.0=C\:\\Users\\nbs19\\Documents\\Fun\\kotlinTutorial\\dessertClicker\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
